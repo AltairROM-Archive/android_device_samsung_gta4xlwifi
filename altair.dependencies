@@ -1,0 +1,50 @@
+[
+    {
+        "remote": "altair",
+        "repository": "AltairROM-Devices/android_device_samsung_gta4xl-common",
+        "target_path": "device/samsung/gta4xl-common",
+        "revision": "10"
+    },
+    {
+        "remote": "lineage",
+        "repository": "android_device_samsung_slsi_sepolicy",
+        "target_path": "device/samsung_slsi/sepolicy",
+        "revision": "lineage-17.1"
+    },
+    {
+        "remote": "lineage",
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision": "lineage-17.1"
+    },
+    {
+        "remote": "lineage",
+        "repository": "android_hardware_samsung_slsi_libbt",
+        "target_path": "hardware/samsung_slsi/libbt",
+        "revision": "lineage-17.1"
+    },
+    {
+        "remote": "lineage",
+        "repository": "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "target_path": "hardware/samsung_slsi/scsc_wifibt/wifi_hal",
+        "revision": "lineage-17.1"
+    },
+    {
+        "remote": "lineage",
+        "repository": "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "target_path": "hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib",
+        "revision": "lineage-17.1"
+    },
+    {
+        "remote": "lineage",
+        "repository": "android_kernel_samsung_gta4xl",
+        "target_path": "kernel/samsung/gta4xl",
+        "revision": "lineage-17.1"
+    },
+    {
+        "remote": "tm",
+        "repository": "proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "revision": "lineage-17.1"
+    }
+]

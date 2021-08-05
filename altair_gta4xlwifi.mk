@@ -8,23 +8,23 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product, device/samsung/gta4xlwifi/device.mk)
 
 ### BOOTANIMATION
-# vendor/lineage/config/common_full_phone.mk
+# vendor/altair/config/common_full_phone.mk
 TARGET_SCREEN_HEIGHT := 2000
 TARGET_SCREEN_WIDTH := 1200
-# vendor/lineage/config/common.mk
+# vendor/altair/config/common.mk
 TARGET_BOOTANIMATION_HALF_RES := true
 
 ### LINEAGE
-$(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
+$(call inherit-product, vendor/altair/config/common_full_tablet_wifionly.mk)
 
 # Enable updating of APEXes
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_gta4xlwifi
+PRODUCT_NAME := altair_gta4xlwifi
 PRODUCT_DEVICE := gta4xlwifi
-PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-P610
+PRODUCT_BRAND := Samsung
+PRODUCT_MODEL := Galaxy Tab S6 Lite (SM-P610)
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_PDA_MODEL := P610
 PRODUCT_PDA_MODEL_VERSION := XXU2BTJ5

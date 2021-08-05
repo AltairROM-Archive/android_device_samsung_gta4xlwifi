@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gta4xlwifi.mk
+    $(LOCAL_DIR)/altair_gta4xlwifi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_gta4xlwifi-eng \
-    lineage_gta4xlwifi-user \
-    lineage_gta4xlwifi-userdebug
+    altair_gta4xlwifi-eng \
+    altair_gta4xlwifi-user \
+    altair_gta4xlwifi-userdebug
