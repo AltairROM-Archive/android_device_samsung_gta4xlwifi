@@ -26,7 +26,7 @@ Device configuration for Samsung Galaxy Tab S6 Lite (Wi-Fi)
 
 ## Picture
 
-![Samsung Galaxy Tab S6 Lite](https://i.imgur.com/HRzqClV.jpg "Samsung Galaxy Tab S6 Lite")
+![Samsung Galaxy Tab S6 Lite](https://raw.githubusercontent.com/AltairROM-Devices/devices/master/images/gta4xlwifi.jpg "Samsung Galaxy Tab S6 Lite")
 
 ## Copyrights
 
